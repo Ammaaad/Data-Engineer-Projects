@@ -31,8 +31,8 @@ The goal of this project is to transform OLTP-style raw data into an **OLAP-opti
 ### Dimension Tables
 - Customer Dimension
 - Product Dimension
-- Date Dimension
-- Store / Region Dimension
+- Payment Dimension
+- Region Dimension
 
 ---
 
